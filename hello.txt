@@ -4,3 +4,7 @@ hello world!!!
 hello world!!!
 zhe ge shi jie shi shen me mu yang zou guo shan shui yi cheng meng yi chang  na ying feng na han
 de hai lang yao duo jiu duo jiu cai neng deng chang yan tu yi sheng ni ning de shi wo 
+int main(){
+printf("hello world")
+return 0;
+}
