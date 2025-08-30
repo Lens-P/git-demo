@@ -8,3 +8,5 @@ int main(){
 printf("hello world");// it's changed
 return 0;
 }
+
+print "hello world"
